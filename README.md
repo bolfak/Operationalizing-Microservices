@@ -6,6 +6,32 @@ Predicts housing prices in Boston using a sklearn model that has been trained t 
 
 The project can be run as a standalone python script and through Docker / Kubernetes
 
+## Project Files
+* app.py
+The python flask app that makes the predictions
+
+* Dockerfile
+Contains the instructions to build the Docker image
+
+* Makefile
+The makefile to build the project
+
+* make_predictions.sh
+A shell script to run a prediction against the model
+
+* requirements.txt
+The python requirements file
+
+* run_docker.sh
+Builds and runs the docker container
+
+* run_kubernetes.sh
+Runs the kubernetes cluster
+
+* upload_docker.sh
+Uploads the docker image to the Duckerhub
+
+
 ## Setup the Environment
 
 * Create a virtualenv and activate it
