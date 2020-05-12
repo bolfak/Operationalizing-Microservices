@@ -1,5 +1,4 @@
-[![Bolfak](https://circleci.com/github/bolfak/
-Operationalizing-Microservices.svg?style=svg)](https://github.com/bolfak/Operationalizing-Microservices
+[![Bolfak](https://circleci.com/github/bolfak/Operationalizing-Microservices.svg?style=svg)](https://github.com/bolfak/Operationalizing-Microservices
 
 ## Project Overview
 
