@@ -1,5 +1,7 @@
 [![Bolfak](https://circleci.com/github/bolfak/Operationalizing-Microservices.svg?style=svg)](https://github.com/bolfak/Operationalizing-Microservices
 
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
