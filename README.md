@@ -7,7 +7,7 @@ Predicts housing prices in Boston using a sklearn model that has been trained t 
 The project can be run as a standalone python script and through Docker / Kubernetes
 
 ## Project Files
-* app.py
+* [app.py](https://github.com/bolfak/Operationalizing-Microservices/blob/master/app.py)
 The python flask app that makes the predictions
 
 * Dockerfile
