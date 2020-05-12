@@ -1,0 +1,12 @@
+NAME                         READY   STATUS             RESTARTS   AGE
+my-app-5b49ffd955-mcfwh      0/1     ImagePullBackOff   0          10m
+prediction-8c5767dfd-75cc8   1/1     Running            0          10m
+Forwarding from 127.0.0.1:9001 -> 80
+Forwarding from [::1]:9001 -> 80
+Handling connection for 9001
+Handling connection for 9001
+Handling connection for 9001
+Handling connection for 9001
+Handling connection for 9001
+
+
