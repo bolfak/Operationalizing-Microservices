@@ -10,25 +10,25 @@ The project can be run as a standalone python script and through Docker / Kubern
 * [app.py](https://github.com/bolfak/Operationalizing-Microservices/blob/master/app.py)
 The python flask app that makes the predictions
 
-* Dockerfile
+* [Dockerfile](https://github.com/bolfak/Operationalizing-Microservices/blob/master/Dockerfile)
 Contains the instructions to build the Docker image
 
-* Makefile
+* [Makefile](https://github.com/bolfak/Operationalizing-Microservices/blob/master/Makefile)
 The makefile to build the project
 
-* make_predictions.sh
+* [make_predictions.sh](https://github.com/bolfak/Operationalizing-Microservices/blob/master/make_predictions.sh)
 A shell script to run a prediction against the model
 
-* requirements.txt
+* [requirements.txt](https://github.com/bolfak/Operationalizing-Microservices/blob/master/requirements.txt)
 The python requirements file
 
-* run_docker.sh
+* [run_docker.sh](https://github.com/bolfak/Operationalizing-Microservices/blob/master/run_docker.sh)
 Builds and runs the docker container
 
-* run_kubernetes.sh
+* [run_kubernetes.sh](https://github.com/bolfak/Operationalizing-Microservices/blob/master/run_kubernetes.sh)
 Runs the kubernetes cluster
 
-* upload_docker.sh
+* [upload_docker.sh](https://github.com/bolfak/Operationalizing-Microservices/blob/master/upload_docker.sh)
 Uploads the docker image to the Duckerhub
 
 
