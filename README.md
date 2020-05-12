@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+[![Bolfak](https://circleci.com/github/bolfak/
+Operationalizing-Microservices.svg?style=svg)](https://github.com/bolfak/Operationalizing-Microservices
 
 ## Project Overview
 
